@@ -1,4 +1,4 @@
-# 📖 Quran Reels Generator | صانع ريلز القرآن الكريم
+# 📖 Quran Reels Generator | أداة عمل ريلز القرآن الكريم
 
 [English](#english) | [العربية](#arabic)
 
@@ -102,3 +102,4 @@ Developed by **Arabian AI School**
 - **Download Portable Version | تحميل النسخة المحمولة:** [إضغط هنا / Click Here](#)
 
 © 2024 All Rights Reserved
+
